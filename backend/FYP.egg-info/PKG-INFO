@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: FYP
+Version: 0.0.1
+Author: Lakshitha
+Author-email: lakshitha.20@cse.mrt.ac.lk
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: langchain_openai
+Requires-Dist: pinecone
+Requires-Dist: langchain-pinecone
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
